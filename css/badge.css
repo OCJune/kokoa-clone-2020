@@ -1,4 +1,4 @@
-.badge {
+.num-badge {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,4 +8,11 @@
     width: 30px;
     height: 30px;
     border-radius: 50%;
+}
+
+.dot-badge {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: tomato;
 }
