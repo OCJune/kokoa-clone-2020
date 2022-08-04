@@ -39,7 +39,7 @@ user-component__avatar--sm {
     margin-top: 8px;
     font-size: 17px;
     color: var(--gray);
-
+    display: flex;
 }
 
 .user-component__column:last-child {
